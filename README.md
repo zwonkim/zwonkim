@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwonkim&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
+![zwonkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwonkim&show=reviews,prs_merged,prs_merged_percentage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwonkim&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zwonkim/zwonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
