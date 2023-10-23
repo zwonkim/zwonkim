@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![zwonkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwonkim&show=reviews,prs_merged,prs_merged_percentage)
+![zwonkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwonkim&show=reviews,prs_merged,prs_merged_percentage&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwonkim&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
